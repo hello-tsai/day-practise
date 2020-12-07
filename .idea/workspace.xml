@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="944d1586-b462-4698-855a-d042bd3c4761" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/questions/20201207/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/20201207/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/20201207/3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/20201207/a2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/questions/20201207/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/questions/20201207/a1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +29,21 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/questions/20201207/index.js" working-dir="$PROJECT_DIR$/questions/20201207">
+  <component name="RunManager" selected="Node.js.3.js">
+    <configuration name="3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/questions/20201207/3.js" working-dir="$PROJECT_DIR$/questions/20201207">
+      <method v="2" />
+    </configuration>
+    <configuration name="a1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/questions/20201207/a1.js" working-dir="$PROJECT_DIR$/questions/20201207">
+      <method v="2" />
+    </configuration>
+    <configuration name="a2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/questions/20201207/a2.js" working-dir="$PROJECT_DIR$/questions/20201207">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.3.js" />
+        <item itemvalue="Node.js.a2.js" />
+        <item itemvalue="Node.js.a1.js" />
       </list>
     </recent_temporary>
   </component>
@@ -46,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607308644621</updated>
-      <workItem from="1607308645678" duration="4800000" />
+      <workItem from="1607308645678" duration="11690000" />
     </task>
     <task id="LOCAL-00001" summary="增加题目">
       <created>1607309957695</created>
@@ -55,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607309957695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20201207-1">
+      <created>1607313618660</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607313618660</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,6 +79,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加题目" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加题目" />
+    <MESSAGE value="20201207-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="20201207-1" />
   </component>
 </project>
