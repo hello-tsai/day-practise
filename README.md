@@ -1,3 +1,30 @@
-### 1.写一个 mySetInterVal(fn, a, b),每次间隔 a,a+b,a+2b 的时间，然后写一个 myClear，停止上面的 mySetInterVal
-### 2.合并二维有序数组成一维有序数组，归并排序的思路
-### 3.字符串出现的不重复最长长度
+### 1. 写出执行结果,并解释原因
+```
+var foo = {
+        bar: function(){
+            return this.baz;
+        },
+         baz:1
+    }
+console.log(typeof (f=foo.bar)());
+``` 
+
+
+### 2. 写出执行结果,并解释原因
+```
+function f(){
+      return f;
+ }
+console.log(new f() instanceof f);
+```
+
+
+### 3. 写出执行结果,并解释原因
+```
+var x=1;
+if(function f(){}){
+    x += typeof f;
+}
+console.log(x)
+```
+
